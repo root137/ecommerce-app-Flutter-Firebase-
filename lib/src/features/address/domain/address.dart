@@ -1,4 +1,4 @@
-/// Address information used for shipping.
+///model class for address
 class Address {
   const Address({
     required this.address,
